@@ -105,7 +105,7 @@ Attempting a direct login with these credentials on both login pages fails.
 
 On the `/login.php` page, a `script.js` file is included, which protects against basic SQL injections on the client side:
 
-Full /script.js - HERE[./script.js]
+Full /script.js - [HERE](script.js)
 
 JavaScript
 
