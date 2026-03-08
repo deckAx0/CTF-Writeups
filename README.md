@@ -9,8 +9,8 @@ Enjoy reading and happy hacking!
 ---
 
 ### 🤝 Let's Connect
-* **My team on CTFtime:** HERE(https://ctftime.org/team/414721)
-* **My team's Discord channel:** HERE(https://discord.gg/kkQjr4nzM8) *(Feel free to join, we'd be glad to see you!)*
+* **My team on CTFtime:** [HERE](https://ctftime.org/team/414721)
+* **My team's Discord channel:** [HERE](https://discord.gg/kkQjr4nzM8) *(Feel free to join, we'd be glad to see you!)*
 
 ---
 
