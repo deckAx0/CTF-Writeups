@@ -9,8 +9,8 @@ Enjoy reading and happy hacking!
 ---
 
 ### 🤝 Let's Connect
-* **My team on CTFtime:** [url]
-* **My team's Discord channel:** [url] *(Feel free to join, we'd be glad to see you!)*
+* **My team on CTFtime:** HERE(https://ctftime.org/team/414721)
+* **My team's Discord channel:** HERE(https://discord.gg/kkQjr4nzM8) *(Feel free to join, we'd be glad to see you!)*
 
 ---
 
@@ -19,10 +19,8 @@ Enjoy reading and happy hacking!
 To make navigation easy, the writeups are organized logically by platform and event. Here is a brief overview of the structure:
 
 * **`/CTF/`** — Writeups from various Capture The Flag competitions, organized by year and event name.
-  * *Categories usually include Web, LLM/ML, etc.*
 * **`/HackTheBox/`** — Walkthroughs for HTB machines and challenges ordered by difficulty.
 * **`/TryHackMe/`** — Walkthroughs for THM rooms ordered by difficulty.
-* **`/PortSwigger/`** — Walkthroughs for Web Security Academy labs.
 
 Inside each specific challenge folder, you will typically find:
 * `<CHALLENGE_NAME>.md` — The detailed writeup, step-by-step methodology, and explanations.
