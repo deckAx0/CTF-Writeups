@@ -18,7 +18,7 @@ Enjoy reading and happy hacking!
 
 To make navigation easy, the writeups are organized logically by platform and event. Here is a brief overview of the structure:
 
-* **`/CTFs/`** — Writeups from various Capture The Flag competitions, organized by year and event name.
+* **`/CTF/`** — Writeups from various Capture The Flag competitions, organized by year and event name.
   * *Categories usually include Web, LLM/ML, etc.*
 * **`/HackTheBox/`** — Walkthroughs for HTB machines and challenges.
 * **`/TryHackMe/`** — Solutions and notes for THM rooms.
