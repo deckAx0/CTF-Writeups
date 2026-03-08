@@ -19,7 +19,7 @@ Enjoy reading and happy hacking!
 To make navigation easy, the writeups are organized logically by platform and event. Here is a brief overview of the structure:
 
 * **`/CTF/`** — Writeups from various Capture The Flag competitions, organized by year and event name.
-* **`/HackTheBox/`** — Walkthroughs for HTB machines and challenges ordered by difficulty.
+* **`/HackTheBox/`** — Walkthroughs for HTB machines(Only retired) and challenges ordered by difficulty.
 * **`/TryHackMe/`** — Walkthroughs for THM rooms ordered by difficulty.
 
 Inside each specific challenge folder, you will typically find:
