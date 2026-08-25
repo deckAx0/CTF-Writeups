@@ -23,5 +23,5 @@ To make navigation easy, the writeups are organized logically by platform and ev
 * **`/TryHackMe/`** — Walkthroughs for THM rooms ordered by difficulty.
 
 Inside each specific challenge folder, you will typically find:
-* `<CHALLENGE_NAME>.md` — The detailed writeup, step-by-step methodology, and explanations.
+* `<CHALLENGE_NAME>/<CHALLENGE_NAME>.md` — The detailed writeup, step-by-step methodology, and explanations.
 * `exploit.py` / `script.sh` — Any scripts that were found during operation, custom tools, or payloads used during the exploitation process.
